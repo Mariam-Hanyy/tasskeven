@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tasskeven/static/css/main.b7c32474.css",
+    "main.js": "/tasskeven/static/js/main.cf4c6b91.js",
+    "static/js/453.e87af881.chunk.js": "/tasskeven/static/js/453.e87af881.chunk.js",
+    "static/media/fa-solid-900.ttf": "/tasskeven/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/tasskeven/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/tasskeven/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/tasskeven/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/tasskeven/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/tasskeven/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/tasskeven/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/tasskeven/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/logo.svg": "/tasskeven/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tasskeven/index.html",
+    "main.b7c32474.css.map": "/tasskeven/static/css/main.b7c32474.css.map",
+    "main.cf4c6b91.js.map": "/tasskeven/static/js/main.cf4c6b91.js.map",
+    "453.e87af881.chunk.js.map": "/tasskeven/static/js/453.e87af881.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c32474.css",
+    "static/js/main.cf4c6b91.js"
+  ]
+}
